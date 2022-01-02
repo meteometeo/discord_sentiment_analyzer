@@ -15,7 +15,7 @@ This program works on GUI<br>
 <br>
 --- How to use ---<br>
 You need to install NLTK and it's words then get 'Discord authentication token' and 'Channel ID' first off.<br>
-Google it then you can find how to get them　easily.<br>
+Google it then you can find how to getthem　easily.<br>
 <br>
 --- Cautions ---<br>
 This program can be used only in English.<br>
