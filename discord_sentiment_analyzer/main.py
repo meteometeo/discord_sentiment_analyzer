@@ -1,6 +1,6 @@
 from nltk.sentiment import SentimentIntensityAnalyzer
 import tkinter as tk
-import requests, json, config
+import requests, json
 import numpy as np
 
 def discord_sentiment_analyzer():
