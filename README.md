@@ -22,7 +22,7 @@ This program can be used only in English.<br>
 Rating is not accurate but you can change the algorithm.<br>
 <br>
 <br>
-Feedback is always welcome!<br>
+Feedback is always welcomeed!<br>
 <br>
 <br>
 <br>
@@ -34,7 +34,7 @@ Feedback is always welcome!<br>
 これは僕の一番最初のプロダクトです。<br>
 まだ実用レベルではありませんが、これが全ての貴重な物事の始まりになると信じています。<br>
 <br>
-ディスコードのチャットをスクレイピングし、Positive、Neutral、Negativeの三段階で評価するプログラムです。<br>
+ディスコードのチャットをスクレイピングし、センチメントをPositive、Neutral、Negativeの三段階で評価するプログラムです。<br>
 GUIのインターフェイスもついています。<br>
 <br>
 --- 使い方 ---<br>
