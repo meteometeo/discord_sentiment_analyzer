@@ -6,9 +6,6 @@ from statistics import mean
 def discord_sentiment_analyzer():
 
     sia = SentimentIntensityAnalyzer()
-    positive = []
-    neutral = []
-    negative = []
     compound = []
     flat_compound = []
     
@@ -27,9 +24,6 @@ def discord_sentiment_analyzer():
         print(value['content'], '\n')
 
         polarity_score = sia.polarity_scores(value['content'])
-        positive.append([polarity_score['pos']])
-        neutral.append([polarity_score['neu']])
-        negative.append([polarity_score['neg']])
         compound.append([polarity_score['compound']])
 
         print([polarity_score['compound']])
